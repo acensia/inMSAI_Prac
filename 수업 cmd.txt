@@ -1,0 +1,9 @@
+pip install mmcv==2.0.0 -f https://download.openmmlab.com/mmcv/dist/cu117/torch2.0/index.html
+
+
+cd C:\Users\labadmin\Desktop\0803\mmdetection-main
+
+https://mmcv.readthedocs.io/en/latest/get_started/installation.html
+
+
+https://download.openmmlab.com/mmdetection/v2.0/faster_rcnn/faster_rcnn_r50_fpn_1x_coco/faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth
